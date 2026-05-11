@@ -2,6 +2,6 @@
   "name": "github-slideshow",
   "version": "1.0.0",
   "dependencies": {
-    "reveal.js": "^5.1.0"
+    "reveal.js": "^4.3.0"
   }
 }
