@@ -1,0 +1,7 @@
+{
+  "name": "github-slideshow",
+  "version": "1.0.0",
+  "dependencies": {
+    "reveal.js": "^5.1.0"
+  }
+}
